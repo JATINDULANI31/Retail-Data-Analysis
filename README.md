@@ -1,6 +1,6 @@
 # Retail Sales Data Analysis
 
-This project involves analysis of a retail sales data ans prediction of future sales using different statistical models.
+This project involves analysis of a retail sales data and prediction of future sales using different statistical models.
 
 ## Table of Contents
 - [Description](#description)
