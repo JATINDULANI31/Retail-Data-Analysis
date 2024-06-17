@@ -4,7 +4,7 @@ This project involves analysis of a retail sales data and prediction of future s
 
 ## Table of Contents
 - [Description](#description)
-- [Visualizations](#visualizations)
+- [Visualization](#visualization)
 - [Future Sales Prediction](#future-sales-prediction)
 
 ## Description
@@ -17,8 +17,8 @@ This project involves analysis of a retail sales data and prediction of future s
   - Auto ARIMA
   - Seasonal ARIMA
 
-## Visualizations
-Various graphs created to understand retail sales trends and patterns like:
+## Visualization
+Created various graphs to understand sales trends and patterns like:
 - Line plots
 - Bar charts
 - Heatmaps
